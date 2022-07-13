@@ -3,6 +3,5 @@ In this repository, I will upload my custom made Excel GradeCalculator for my Co
 
 -----------------------------------------
 
-#### List of my GradeCalculator Excel template for my courses
-
-> pcs224 - Physics Solid State
+#### List of my GradeCalculators in Excel for my courses (Feel free to use these template)
+> PCS224 - Physics Solid State

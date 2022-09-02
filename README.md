@@ -10,4 +10,8 @@ In this repository, I will upload my custom made Excel GradeCalculator for my Co
 
 > PCS224 - Physics Solid State
 
+> ELE302 - Electric Network
 
+> COE318 - Software Systems
+
+> COE328 - Digital Systems

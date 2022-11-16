@@ -16,4 +16,4 @@ In this repository, I will upload my custom made Excel GradeCalculator for my Co
 
 > COE328 - Digital Systems
 
-> MTH513 - Probability and Stochastic Processes
+> MTH514 - Probability and Stochastic Processes
